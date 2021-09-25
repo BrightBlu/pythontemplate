@@ -17,5 +17,6 @@ def evaluateTimeTravel():
     
     
     
+    
     logging.info("My result :{}".format(result))
     return json.dumps(result)
